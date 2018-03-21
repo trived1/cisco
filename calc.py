@@ -1,6 +1,6 @@
 define add(x,y):
 return x+y
 define sub(x,y):
-pass
+return x-y
 define mul(x,y):
-pass
+return x*y
